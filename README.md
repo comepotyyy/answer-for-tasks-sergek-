@@ -1,4 +1,4 @@
-# answer-for-tasks-sergek-
+# answer-for-task1
 
 ## Задача 1. Сбор и обработка данных о парковках Алматы через API 2ГИС
 
